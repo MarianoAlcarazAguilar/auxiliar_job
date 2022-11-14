@@ -1,0 +1,8 @@
+region,r1,r2,r3,r4,r5,r6
+bajio,0,0,0,0,0,0
+centro,1,0,0,0,0,0
+golfo norte,0,1,0,0,0,0
+occidente norte,0,0,1,0,0,0
+occidente,0,0,0,1,0,0
+pacifico,0,0,0,0,1,0
+sur,0,0,0,0,0,1
